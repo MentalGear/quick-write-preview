@@ -1,5 +1,8 @@
 # QuickWrite
 
+### Video Showcase
+🍿 **Click the Screenshot to play the demo video**
+
 [![Quickook at QuickWrite](https://i.vimeocdn.com/video/1957490725-41db7f53e7e4dc5eabce65ea78a3876dfec813b64835bc0180c19a8a8351b100-d_2400)](https://vimeo.com/1035881817)
 
 ### Install
