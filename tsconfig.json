@@ -1,0 +1,11 @@
+{
+    "extends": "./.wxt/tsconfig.json",
+    "compilerOptions": {
+        "useDefineForClassFields": true,
+        "paths": {
+            // WXT: also needs paths added to wxt.config.ts
+            "$lib": ["./src/lib"],
+            "$lib/*": ["./src/lib/*"]
+        }
+    }
+}
